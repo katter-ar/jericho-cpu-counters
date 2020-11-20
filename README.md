@@ -1,9 +1,16 @@
-# About
+# Capture Drops from CPU Counters on a 7280s
+WORK IN PROGRESS
 
-This repository automates the process of collecting drop counters on a 7280CRA-30 switch platform.
+![Arista Automation](https://img.shields.io/badge/Arista%20Automation-blue)
 
-# Assumptions
+## About
 
-The inventory will be pulled from 'hosts' file which contains only 7280CRA-30 switch hosts.
-# jericho-cpu-counters
+
+This repository automates the process of collecting drop counters on a 7280 switch platforms.
+
+## Assumptions
+
+The inventory will be pulled from 'hosts' file which contains only 7280 switch hosts.
+
+## jericho-cpu-counters
 Capture 'show cpu counters queue' for CoppSystemVxlanEncap drops
